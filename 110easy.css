@@ -1,0 +1,53 @@
+h2{
+    color: rgb(113, 113, 113);
+}
+
+h3{
+    color: rgb(113, 113, 113);
+}
+
+.ncuText{
+    background-color: rgb(27, 94, 50);
+    color: white;
+    text-align: center;
+}
+
+.ncudoor{
+    font-size: 25px;
+    font-weight:bold;
+}
+
+.ncuTag{
+    position: relative;
+    top: 10px;
+    left:20px;
+    /*bottom: 500px;*/
+}
+
+.ncudoorPic{
+    border-radius: 50px;
+    max-width: 50%;
+    height: auto;
+}
+
+.ncuweb{
+    font-size: 25px;
+    font-weight:bold;
+}
+
+.secret{
+    font-size: 25px;
+    font-weight:bold;
+}
+
+.depText{
+    background-color: rgb(27, 94, 50);
+    color: white;
+    text-align: center;
+}
+
+.myinfo{
+    background-color: rgb(27, 94, 50);
+    color: white;
+    text-align: center;
+}
